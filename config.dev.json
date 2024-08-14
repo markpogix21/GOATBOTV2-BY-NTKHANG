@@ -17,11 +17,11 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100053549552408",
-    "61557118090040",
-    "100041394069745",
-    "61560240322838",
-		"61560931561254"
+    "100093523939108",
+    "100093523939108",
+    "61563419107727",
+    "61563419107727",
+		"100093523939108"
   ],
   "whiteListMode": {
     "enable": false,
@@ -32,8 +32,8 @@
   "AGE": "18",
   "GENDER": "MALE",
   "nickNameBot": "Yazkybot",
-  "FACEBOOK": "https://www.facebook.com/swordigo.swordslush",
-  "prefix": "✓",
+  "FACEBOOK": "https://www.facebook.com/Markey4370",
+  "prefix": ",",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
@@ -44,10 +44,10 @@
   "timeZone": "Asia/Ho_Chi_Minh",
   "credentials": {
     "gmailAccount": {
-      "email": "cliffbotbeluga@gmail.com",
-      "clientId": "335951889803-q0sqvpqjire12vl0c1drqpvq6trqe7qi.apps.googleusercontent.com",
-      "clientSecret": "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",
-      "refreshToken": "1//04vKSsirtbMjRCgYIARAAGAQSNwF-L9Ir45Y2gJy6rg7wvfCbzF5fTFQxOhV83N6jQC-N5n6S-rNnEUgujiuWu4OvrLEbmELMcSI",
+      "email": "luckygithub387@gmail.com",
+      "clientId": "",
+      "clientSecret": "",
+      "refreshToken": "",
       "apiKey": ""
     },
     "gRecaptcha": {
